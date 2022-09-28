@@ -14,7 +14,7 @@ body {
   box-shadow: 5px 5px 10px 5px rgba(0, 0, 0, 0.5);
 }
 
-h1.show-data {
+h1 {
   text-align: center;
 }
 img.show-data {
